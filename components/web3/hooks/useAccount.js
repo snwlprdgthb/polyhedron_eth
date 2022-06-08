@@ -6,7 +6,7 @@ const adminAddress = {
 };
 
 export const handler = (web3, provider) => () => {
-  const isAdminByENV = adminAddress[process.env.NEXT_PUBLIC_ADMIN_HASH_ACCOUNT];
+  const isAdminByENV = adminAddress[process.env.ADMIN_HASH_ACCOUNT];
 
   const { data, error, mutate, ...rest } = useSWR(
     web3 ? "web3/useAcccount" : null,
