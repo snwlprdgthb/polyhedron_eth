@@ -1,0 +1,158 @@
+[
+
+            {
+            "id": "1",
+            "type": "Catalan solid",
+            "title": "Octahedron",
+            "description" : "In geometry, an octahedron (plural: octahedra, octahedrons) is a polyhedron with eight faces, twelve edges, and six vertices. The term is most commonly used to refer to the regular octahedron, a Platonic solid composed of eight equilateral triangles, four of which meet at each vertex. A regular octahedron is the dual polyhedron of a cube. It is a rectified tetrahedron. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. An octahedron is the three-dimensional case of the more general concept of a cross polytope.",
+            "coverImg": "/items/12.svg",
+            "slug": "octahedron",
+            "wsl": [
+                "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+            },
+
+
+            {"id": "2",
+            "type": "Catalan solid",
+            "title": "Dodecahedron",
+            "description" : "In geometry, a dodecahedron or duodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron with regular pentagons as faces, which is a Platonic solid. There are also three regular star dodecahedra, which are constructed as stellations of the convex form. All of these have icosahedral symmetry, order 120. Some dodecahedra have the same combinatorial structure as the regular dodecahedron (in terms of the graph formed by its vertices and edges), but their pentagonal faces are not regular: The pyritohedron, a common crystal form in pyrite, has pyritohedral symmetry, while the tetartoid has tetrahedral symmetry. The rhombic dodecahedron can be seen as a limiting case of the pyritohedron, and it has octahedral symmetry. The elongated dodecahedron and trapezo-rhombic dodecahedron variations, along with the rhombic dodecahedra, are space-filling. There are numerous other dodecahedra.",
+            "coverImg": "/items/1.svg",
+            "slug": "dodecahedron",
+            "wsl": [
+                "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+            },   
+
+
+            {"id": "3",
+            "type": "Archimedean solid",
+            "title": "Snub cube",
+            "description" : "In geometry, the snub cube, or snub cuboctahedron, is an Archimedean solid with 38 faces: 6 squares and 32 equilateral triangles. It has 60 edges and 24 vertices. It is a chiral polyhedron; that is, it has two distinct forms, which are mirror images  of each other. The union of both forms is a compound of two snub cubes, and the convex hull of both sets of vertices is a truncated cuboctahedron. Kepler first named it in Latin as cubus simus in 1619 in his Harmonices Mundi. H. S. M. Coxeter, noting it could be derived equally from the octahedron as the cube, called it snub cuboctahedron,",
+            "coverImg": "/items/2.svg",
+            "slug": "sub-cube",
+            "wsl": [
+                       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+            },
+
+        {
+            "id": "4",
+            "type": "Archimedean solid",
+            "title": "Truncated rhombicuboctahedron",
+            "description" : "The truncated rhombicuboctahedron is a polyhedron, constructed as a truncation of the rhombicuboctahedron. It has 50 faces consisting of 18 octagons, 8 hexagons, and 24 squares. It can fill space with the truncated cube, truncated tetrahedron and triangular prism as a truncated runcic cubic honeycomb. The truncated cuboctahedron is similar, with all regular faces, and 4.6.8 vertex figure. The triangle and squares of the rhombicuboctahedron can be independently rectified or truncated, creating four permutations of polyhedra. The partially truncated forms can be seen as edge contractions of the truncated form. The truncated rhombicuboctahedron can be seen in sequence of rectification and truncation operations from the cuboctahedron. A further alternation step leads to the snub rhombicuboctahedron.",
+            "coverImg": "/items/3.svg",
+            "slug": "truncated-rhombicuboctahedron",
+            "wsl": [
+                    "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+        {"id": "5",
+            "type": "Archimedean solid",
+            "title": "Rhombicuboctahedron",
+            "description" : "In geometry, the rhombicuboctahedron, or small rhombicuboctahedron, is an Archimedean solid with eight triangular, six square, and twelve rectangular faces. There are 24 identical vertices, with one triangle, one square, and two rectangles meeting at each one. (Note that this shape can have squares as the rectangular faces, but to be an archimedian solid, they have to be squares.) The polyhedron has octahedral symmetry, like the cube and octahedron. Its dual is called the deltoidal icositetrahedron or trapezoidal icositetrahedron, although its faces are not really true trapezoids.",
+            "coverImg": "/items/4.svg",
+            "slug": "rhombicuboctahedron",
+            "wsl": [
+                       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        }, 
+
+
+        {"id": "6",
+            "type": "Catalan solid",
+            "title": "Hexahedron",
+            "description" : "A hexahedron is any polyhedron with six faces. A cube, for example, is a regular hexahedron with all its faces square, and three squares around each vertex. There are seven topologically distinct convex hexahedra, one of which exists in two mirror image forms. There are three topologically distinct concave hexahedra. Two polyhedra are 'topologically distinct' if they have intrinsically different arrangements of faces and vertices, such that it is impossible to distort one into the other simply by changing the lengths of edges or the angles between edges or faces.",
+            "coverImg": "/items/5.svg",
+            "slug": "hexahedron",
+            "wsl": [
+                       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+        {"id": "7",
+            "type": "Archimedean solid",
+            "title": "Rhombicuboctahedron",
+            "description" : "There are distortions of the rhombicuboctahedron that, while some of the faces are not regular polygons, are still vertex-uniform. Some of these can be made by taking a cube or octahedron and cutting off the edges, then trimming the corners, so the resulting polyhedron has six square and twelve rectangular faces. These have octahedral symmetry and form a continuous series between the cube and the octahedron, analogous to the distortions of the rhombicosidodecahedron or the tetrahedral distortions of the cuboctahedron.",
+            "coverImg": "/items/6.svg",
+            "slug": "rhombicuboctahedron",
+            "wsl": [
+       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+
+        {"id": "8",
+            "type": "Archimedean solid",
+            "title": "Rhombicosidodecahedron",
+            "description" : "vt can be constructed as a rhombicosidodecahedron with two opposing pentagonal cupolae removed. Related Johnson solids are the diminished rhombicosidodecahedron (J76) where one cupola is removed, the metabidiminished rhombicosidodecahedron (J81) where two non-opposing cupolae are removed and the tridiminished rhombicosidodecahedron (J83) where three cupolae are removed.",
+            "coverImg": "/items/7.svg",
+            "slug": "rhombicosidodecahedron",
+            "wsl": [
+                       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+
+        {"id": "9",
+            "type": "Catalan solid",
+            "title": "Icosahedron",
+            "description" : "n geometry, the rhombicosidodecahedron is an Archimedean solid, one of thirteen convex isogonal nonprismatic solids constructed of two or more types of regular polygon faces. It has 20 regular triangular faces, 30 square faces, 12 regular pentagonal faces, 60 vertices, and 120 edges.",
+            "coverImg": "/items/8.svg",
+            "slug": "icosahedron",
+            "wsl": [
+       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+
+        {"id": "10",
+            "type": "Archimedean solid",
+            "title": "Truncated dodecahedron",
+            "description" : "In geometry, the truncated dodecahedron is an Archimedean solid. It has 12 regular decagonal faces, 20 regular triangular faces, 60 vertices and 90 edges. This polyhedron can be formed from a regular dodecahedron by truncating (cutting off) the corners so the pentagon faces become decagons and the corners become triangles. It is used in the cell-transitive hyperbolic space-filling tessellation, the bitruncated icosahedral honeycomb.",
+            "coverImg": "/items/9.svg",
+            "slug": "truncated-dodecahedron",
+            "wsl": [
+                    "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+
+        {"id": "11",
+            "type": "Catalan solid",
+            "title": "Truncated icosahedron",
+            "description" : "In geometry, the truncated icosahedron is an Archimedean solid, one of 13 convex isogonal nonprismatic solids whose 32 faces are two or more types of regular polygons. It is the only one of these shapes that does not contain triangles or squares. In general usage, the degree of truncation is assumed to be uniform unless specified. It has 12 regular pentagonal faces, 20 regular hexagonal faces, 60 vertices and 90 edges.",
+            "coverImg": "/items/10.svg",
+            "slug": "truncated-icosahedron",
+            "wsl": [
+                   "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        },
+
+        
+        {"id": "12",
+            "type": "Archimedean solid",
+            "title": "Snub dodecahedron",
+            "description" : "In geometry, the snub dodecahedron, or snub icosidodecahedron, is an Archimedean solid, one of thirteen convex isogonal nonprismatic solids constructed by two or more types of regular polygon faces. The snub dodecahedron has 92 faces (the most of the 13 Archimedean solids): 12 are pentagons and the other 80 are equilateral triangles. It also has 150 edges, and 60 vertices. It has two distinct forms, which are mirror images of each other. The union of both forms is a compound of two snub dodecahedra, and the convex hull of both forms is a truncated icosidodecahedron.",
+            "coverImg": "/items/11.svg",
+            "slug": "snub-dodecahedron",
+            "wsl": [
+                       "Introduction", "Euler formula", "Models of polyhedra", "Formal specifications and proofs", "Proofs for hypermaps or planar graphs", "Mathematical aspects", "Euler characteristic and planarity", "Embeddings", "Preliminary specifications", "Quasi-hypermaps", "Closure of a quasi-hypermap", "Characteristics", "Genus theorem and Euler formula", "Sufficient conditions of planarity, proof of Euler’s formula", "Conclusion", "Granting"
+            ],
+            "createdAt": ""
+        }
+        
+
+        ]
