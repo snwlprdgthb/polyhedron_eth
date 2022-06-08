@@ -33,7 +33,9 @@ export default function Card({ item, Footer, disabled, state }) {
                 </div>
 
                 <Link item={item} href={`/item/${item.slug} `}>
-                  <a className="h-8 block mt-1 text-lg">{item.title}</a>
+                  <span className="leading-5 h-9 break-all block mt-3 text-lg">
+                    {item.title}
+                  </span>
                 </Link>
 
                 <div className="flex justify-start items-center">

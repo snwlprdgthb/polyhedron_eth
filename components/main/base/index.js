@@ -5,11 +5,17 @@ export default function Main() {
   return (
     <div className="">
       <div className="w-full  bg-black text-white pt-32 md:pt-40 flex justify-center font-abeezee">
-        <div className="flex grid grid-cols-1  w-2/3 sm:w-2/5 uppercase font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl">
-          <div className="justify-self-start">Semiregular</div>
-          <div className="justify-self-center">Polyhedron</div>
-          <div className="justify-self-end">Marketplace</div>
-          <div className="text-xs sm:text-sm justify-self-end w-4/5 mt-3">
+        <div className="flex grid grid-cols-1   w-2/3 sm:w-2/5 uppercase font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl">
+          <div className="h-6 sm:h-8 md:h-10 lg:h-12 xl:h-14 justify-self-start">
+            Semiregular
+          </div>
+          <div className="h-6 sm:h-8 md:h-10 lg:h-12 xl:h-14 justify-self-center ">
+            Polyhedron
+          </div>
+          <div className="h-6 sm:h-8 md:h-10 lg:h-12 xl:h-14 justify-self-end">
+            Marketplace
+          </div>
+          <div className="text-sm xl:text-md justify-self-end w-4/5 mt-5">
             SAY HELLO TO Catalan and Archimedean solid.THIS DAPP ENABLES THE BUY
             AND FULLY OWNERSHIP OF semiregular polytope throught to the ethereum
             blockchain and WEB3 Technology
@@ -35,7 +41,7 @@ export default function Main() {
           onClick={() =>
             window.open("https://github.com/snwlprdgthb", "_blank")
           }
-          className="textHoverZinc cursor-pointer  py-3 mb-20 mt-3 border w-1/2 md:w-1/3 text-center rounded-md"
+          className="textHoverZinc cursor-pointer  py-3 mb-20 mt-2 border w-1/2 md:w-1/3 text-center rounded-md"
         >
           See more on Github
         </div>
@@ -43,14 +49,14 @@ export default function Main() {
 
       <div className="flex flex-col text-sm text-white w-full lg:w-4/5 font-abeezee mb-10 lg:mb-20 lg:pt-20 p-5 lg:px-32">
         <div className="text-4xl font-bold">Core Concept of Polyhedron</div>
-        <div className="my-7 w-4/6">
+        <div className="my-7 text-lg md:text-xl w-5/6 md:w-4/6">
           In its original definition, it is a polyhedron with regular polygonal
           faces, and a symmetry group which is transitive on its vertices;
           today, this is more commonly referred to as a uniform polyhedron (this
           follows from Thorold Gossets 1900 definition of the more general
           semiregular polytope)
         </div>
-        <div className="flex flex-col sm:flex-row md:text-base">
+        <div className="flex flex-col text-md md:text-lg sm:flex-row md:text-base">
           <div>
             These semiregular solids can be fully specified by a vertex
             configuration: a listing of the faces by number of sides, in order

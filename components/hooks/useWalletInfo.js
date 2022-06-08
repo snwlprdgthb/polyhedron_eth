@@ -11,10 +11,6 @@ export function useWalletInfo() {
     account.hasInitialResponse && network.hasInitialResponse
   );
 
-  // const isConnecting =
-  // !account.hasInitialResponse &&
-  // !network.hasInitialResponse
-
   return {
     account,
     network,

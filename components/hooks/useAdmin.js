@@ -7,9 +7,6 @@ export default function useAdmin({ redirectTo }) {
   let shouldRedirect = false;
 
   if (requireInstall || !account.isAdmin) {
-    // return router.push(redirectTo);
-    // window.location.replace(redirectTo);
-
     shouldRedirect = true;
   }
 

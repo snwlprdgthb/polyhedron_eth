@@ -37,7 +37,7 @@ export default function Features() {
           </div>
         </div>
       </div>
-      <div className=" customFull fixed ">
+      <div className="customFull fixed ">
         <Image
           width="1800"
           height="1800"

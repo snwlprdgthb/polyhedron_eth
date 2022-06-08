@@ -5,9 +5,9 @@ module.exports = {
   contracts_build_directory: "./public/contracts",
   networks: {
     development: {
-      host: "127.0.0.1", // Localhost (default: none)
-      port: 7545, // Standard Ethereum port (default: none)
-      network_id: "*" // Any network (default: none)
+      host: "127.0.0.1",
+      port: 7545,
+      network_id: "*"
     },
     ropsten: {
       provider: () =>
@@ -19,8 +19,8 @@ module.exports = {
           addressIndex: 0
         }),
       network_id: 3,
-      gas: 8000000, // gas limit
-      gasPrice: 113864531661, // in wei 152414241235
+      gas: 8000000,
+      gasPrice: 113864531661,
       confirmations: 2,
       timeoutBlocks: 200
     }
@@ -28,7 +28,7 @@ module.exports = {
 
   compilers: {
     solc: {
-      version: "0.8.11" // Fetch exact version from solc-bin (default: truffle's version)
+      version: "0.8.11"
     }
   }
 };

@@ -15,7 +15,6 @@ export default function Button({
       <button
         {...rest}
         onClick={onClick}
-        // disabled={false}
         className={`disabled:opacity-50 ${className} ${
           colorProps ? color[colorProps] : color.default
         }   px-4 py-2 border rounded-xl font-medium `}

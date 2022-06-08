@@ -20,11 +20,7 @@ export default function Item({ item }) {
     <div className="">
       {(requireInstall || !account.account) && (
         <div>
-          <div className="fixed z-10">
-            <div
-              className={` w-screen h-screen  bg-red-900  opacity-60  text-black rounded-md`}
-            ></div>
-          </div>
+          <div className="fixed z-10"></div>
           <div className="fixed z-30 flex justify-center w-screen h-screen items-center">
             <div className="bg-black p-8 opacity-90 text-2xl text-white rounded-md flex flex-col items-center">
               <div>U dont have access </div>
@@ -42,7 +38,10 @@ export default function Item({ item }) {
         </div>
       )}
 
-      <div className="w-full font-abeezee 2xl:text-xl">
+      <div
+        className={`${(requireInstall || !account.account) &&
+          "bg-red-900 opacity-20"} w-full font-abeezee 2xl:text-xl`}
+      >
         <div className="">
           <div className=" flex flex-col md:flex-row ">
             <div className=" flex-2 flex-col flex items-center justify-center pt-32 2xl:pt-16 md:pl-16 lg:pl-32 ">

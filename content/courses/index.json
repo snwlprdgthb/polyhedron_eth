@@ -93,7 +93,7 @@
         {"id": "8",
             "type": "Archimedean solid",
             "title": "Rhombicosidodecahedron",
-            "description" : "vt can be constructed as a rhombicosidodecahedron with two opposing pentagonal cupolae removed. Related Johnson solids are the diminished rhombicosidodecahedron (J76) where one cupola is removed, the metabidiminished rhombicosidodecahedron (J81) where two non-opposing cupolae are removed and the tridiminished rhombicosidodecahedron (J83) where three cupolae are removed.",
+            "description" : "Сan be constructed as a rhombicosidodecahedron with two opposing pentagonal cupolae removed. Related Johnson solids are the diminished rhombicosidodecahedron (J76) where one cupola is removed, the metabidiminished rhombicosidodecahedron (J81) where two non-opposing cupolae are removed and the tridiminished rhombicosidodecahedron (J83) where three cupolae are removed.",
             "coverImg": "/items/7.svg",
             "slug": "rhombicosidodecahedron",
             "wsl": [
@@ -106,7 +106,7 @@
         {"id": "9",
             "type": "Catalan solid",
             "title": "Icosahedron",
-            "description" : "n geometry, the rhombicosidodecahedron is an Archimedean solid, one of thirteen convex isogonal nonprismatic solids constructed of two or more types of regular polygon faces. It has 20 regular triangular faces, 30 square faces, 12 regular pentagonal faces, 60 vertices, and 120 edges.",
+            "description" : "In geometry, the rhombicosidodecahedron is an Archimedean solid, one of thirteen convex isogonal nonprismatic solids constructed of two or more types of regular polygon faces. It has 20 regular triangular faces, 30 square faces, 12 regular pentagonal faces, 60 vertices, and 120 edges.",
             "coverImg": "/items/8.svg",
             "slug": "icosahedron",
             "wsl": [

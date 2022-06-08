@@ -3,8 +3,6 @@ import { useWeb3 } from "@components/web3";
 import { Button } from "@components/layout";
 import { useAccount } from "@components/hooks/useAccount";
 
-// import { useRouter } from "next/router";
-
 export default function Header() {
   const { connect, isLoading, requireInstall } = useWeb3();
   const { account } = useAccount();
@@ -72,16 +70,6 @@ export default function Header() {
         </div>
         <div className="blackGradient h-9/6" />
       </section>
-
-      {/* <div>{account.isAdmin && "admin"} </div> */}
     </>
   );
 }
-
-// background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
-//     z-index: -1;
-//     height: 150%;
-//     position: absolute;
-//     width: 100%;
-//     top: 0px;
-//     left: 0px;

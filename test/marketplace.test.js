@@ -496,6 +496,4 @@ contract("Marketplace", accounts => {
       assert(code, "0x", "bytecode contract gotta be 0x");
     });
   });
-
-  ///
 });
