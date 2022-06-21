@@ -1,4 +1,4 @@
-import { getAllItems } from "@content/courses/fetcher";
+import { getAllItems } from "@content/items/fetcher";
 import { BaseLayout } from "@components/layout";
 import { useOwnedItem } from "@components/hooks/useOwnedItem";
 import { useAccount } from "@components/hooks/useAccount";

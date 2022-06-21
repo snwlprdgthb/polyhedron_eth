@@ -1,4 +1,4 @@
-import items from "./index.json";
+import items from "./index.json.js";
 
 export const getAllItems = () => {
   return {

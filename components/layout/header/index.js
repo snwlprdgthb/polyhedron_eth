@@ -3,9 +3,16 @@ import { useWeb3 } from "@components/web3";
 import { Button } from "@components/layout";
 import { useAccount } from "@components/hooks/useAccount";
 
+function isMobileDevice() {
+  return "ontouchstart" in window || "onmsgesturechange" in window;
+}
+
 export default function Header() {
   const { connect, isLoading, requireInstall } = useWeb3();
   const { account } = useAccount();
+
+  const dappUrl = "polyhedron-ethmarket-lmt6c3lnn-kostyaposlushnoi.vercel.app/";
+  const metamaskAppDeepLink = "https://metamask.app.link/dapp/" + dappUrl;
 
   return (
     <>
@@ -57,9 +64,13 @@ export default function Header() {
                   )
                 ) : (
                   <Button
-                    onClick={() =>
-                      window.open("https://metamask.io/", "_blank")
-                    }
+                    onClick={() => {
+                      if (isMobileDevice()) {
+                        window.open(metamaskAppDeepLink);
+                      } else {
+                        window.open("https://metamask.io/", "_blank");
+                      }
+                    }}
                   >
                     Install metamask
                   </Button>

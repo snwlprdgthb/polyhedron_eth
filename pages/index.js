@@ -1,5 +1,5 @@
 import { BaseLayout } from "@components/layout";
-import { getAllItems } from "@content/courses/fetcher";
+import { getAllItems } from "@content/items/fetcher";
 import { List } from "@components/items";
 import { Card } from "@components/card";
 import { Main } from "@components/main";

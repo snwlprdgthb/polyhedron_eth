@@ -1,6 +1,6 @@
 import { BaseLayout } from "@components/layout";
 import { MarketHeader } from "@components/marketHeader";
-import { getAllItems } from "@content/courses/fetcher";
+import { getAllItems } from "@content/items/fetcher";
 import { useOwnedItems } from "@components/hooks/useOwnedItems";
 import { ItemsPanel } from "@components/ItemsPanel";
 import { ActivityPanel } from "@components/activityPanel";

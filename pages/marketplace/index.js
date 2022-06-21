@@ -1,7 +1,7 @@
 import { BaseLayout } from "@components/layout";
 import { List } from "@components/items";
 import { Card } from "@components/card";
-import { getAllItems } from "@content/courses/fetcher";
+import { getAllItems } from "@content/items/fetcher";
 import { Button } from "@components/layout";
 import { Modal } from "@components/modal";
 import { useState } from "react";
@@ -64,6 +64,7 @@ export default function Marketplace({ items }) {
   };
 
   const _purchaseItem = async (hexCourseId, proof, priceInWei) => {
+    debugger;
     try {
       return await contract.contract.methods
         .purchaseItem(hexCourseId, proof)
